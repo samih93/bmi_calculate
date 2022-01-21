@@ -1,5 +1,6 @@
 ![Capture](https://user-images.githubusercontent.com/78031951/150594728-2db2bc8a-8447-45e3-8a4d-77c01c01b619.PNG)
 # bmi_calculate
+# using Getx State Manegment
 
 A new Flutter project.
 
