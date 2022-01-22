@@ -13,9 +13,9 @@ class BMICalculator extends StatelessWidget {
           _screen_height = MediaQuery.of(context).size.height;
           print(_screen_height);
           return Scaffold(
-              backgroundColor: Colors.blue,
+              backgroundColor: Colors.deepPurple.shade600,
               appBar: AppBar(
-                backgroundColor: Colors.blue,
+                backgroundColor: Colors.deepPurple.shade600,
                 centerTitle: true,
                 title: Text("BMI Calculator"),
               ),
@@ -287,7 +287,7 @@ class BMICalculator extends StatelessWidget {
                   Container(
                     width: double.infinity,
                     child: MaterialButton(
-                      height: 60,
+                      height: 50,
                       onPressed: () {
                         _onAlertWithCustomImagePressed(
                             context, bMIController.result);
