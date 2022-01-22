@@ -1,4 +1,4 @@
-![Capture](https://user-images.githubusercontent.com/78031951/150594728-2db2bc8a-8447-45e3-8a4d-77c01c01b619.PNG)
+![BMI](https://user-images.githubusercontent.com/78031951/150653779-2f05c82d-31d7-476a-914a-e558d3821f99.PNG)
 # bmi_calculate
 # using Getx State Manegment
 
